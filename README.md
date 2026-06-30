@@ -30,9 +30,7 @@ A founder-led initiative exploring practical AI for life, work, and organization
 
 The journey begins with individuals, expands to professionals, and ultimately explores how AI can improve the way organizations operate.
 
-**Start with Individuals. 
-Empower Professionals. 
-Transform Organizations.**
+**Start with Individuals.  Empower Professionals.   Transform Organizations.**
 
 ### PAIOS — Personal AI Operating System
 
